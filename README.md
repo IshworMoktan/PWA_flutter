@@ -1,16 +1,9 @@
-# webview_app
+# OverView
+This Flutter project is a minimalistic WebView application designed to load a web page with the app bar hidden. By utilizing the webview_flutter package, the app provides a seamless web browsing experience while keeping the user interface clean and uncluttered. The hidden app bar enhances the focus on web content, making it an ideal solution for applications that prioritize a full-screen browsing experience.
 
-A new Flutter project.
+## Download APK
+https://drive.google.com/file/d/1TlQ7Sule-PI3srVsSFvsXleQe1Z7BoNS/view?usp=sharing
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShot
+![photo1700400249](https://github.com/IshworMoktan/PWA_flutter/assets/89696918/7fa25f14-e5cf-4271-a61d-178fc8d38fb7)
+![photo1700400249 (1)](https://github.com/IshworMoktan/PWA_flutter/assets/89696918/ee1ff41f-d93e-4d07-9d31-f09b49a58949)
